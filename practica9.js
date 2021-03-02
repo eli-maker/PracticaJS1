@@ -1,4 +1,5 @@
-//Ejercicio de la semana
+//Ejercicio dia de la semana
+//creamos variable para almacenar el dia de la semana 
 let dia = prompt("Ingresa un dia a la semana");
 // convertir lo que escriba el usuario en minuscula
 dia = dia.toLowerCase();

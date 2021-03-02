@@ -1,2 +1,2 @@
 // ventana de confirmacion
-confirm("do you want to exit")
+confirm("Quiere salir de esta pagina")
